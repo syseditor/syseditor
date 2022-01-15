@@ -1,2 +1,6 @@
 # Heyo 🤗
-### My name is Jim, I know some python, php, html and css and I love anime ;)
+### My name is Jim, I know some python and php and I love anime ;)
+## Facts about me:
+* Im currently working at a Minecraft Bedrock Server 👀
+* I like math and physics 😃
+* I love pizza 🍕
