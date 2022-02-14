@@ -1,5 +1,5 @@
 # Heyo 🤗
-### My name is Jim, I know some python, php and sql and I love anime ;)
+### The name's immo. I use PHP and SQL frequently and sometimes Python.
 ## Facts about me:
-* I LOVE math and physics 😃
+* I LOVE math, physics and anime 😃
 * I like watching movies 🍕
